@@ -1,4 +1,4 @@
-# geneRhythmicity
+# Approaches for analysing rhythmicity
 Collection of utilites for running and analysing rhythmic time series with 
 * JTK_CYCLE
 * RAIN
